@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.set{
+    background-color: bisque;
+    border: 2px double black;
+}
+.form-control{
+    text-align: center;
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.card-img-top{
+    width: 250px;
+    height: 280px;
+}
+.card-title{
+    font-size: larger;
+    text-align: center;
+    font-weight: 500;
+}
+.card{
+    margin: 10px;
+    
+}
+.btn{
+    box-shadow: 4px 4px 6px rgba(104, 22, 22, 0.295);
+}
